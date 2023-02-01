@@ -8,7 +8,17 @@
 
 ## Referencias
 
-## Autores
+- [Red Hat](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/listing-repositories-with-yum_searching-for-software-packages)
+
+- [LinuxParty](https://www.linuxparty.es/35-linux/10717-listar-repositorios-linux-en-debian-ubuntu-fedora-centos-rhel-almalinux-y-rocky-linux.html)
+
+- [Wikipedia](https://es.wikipedia.org/wiki/Rocky_Linux)
+
+
+
+## Autor
+
+- Hugo Gonzalez Salas
 
 ## Licencia
 ![image](licencia.png)
