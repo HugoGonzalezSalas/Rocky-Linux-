@@ -18,7 +18,7 @@
 
 ## Autor
 
-- Hugo Gonzalez Salas
+- [Hugo Gonzalez Salas](https://github.com/HugoGonzalezSalas)
 
 ## Licencia
 ![image](contenidos/licencia.png)
