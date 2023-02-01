@@ -6,9 +6,9 @@
 - [2- Repositorios Rocky Linux](modulo2.md)
 - [3- Operaciones Básicas](modulo3.md)
 
-##Referencias
+## Referencias
 
-##Autores
+## Autores
 
-##Licencia
+## Licencia
 ![image](licencia.png)
