@@ -1,4 +1,4 @@
-# 1.- Paquetes RPMç
+# 1.- Paquetes RPM
 
 - ¿Qué son los paquetes rpm?
 
