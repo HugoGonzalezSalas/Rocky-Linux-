@@ -21,4 +21,4 @@
 - Hugo Gonzalez Salas
 
 ## Licencia
-![image](licencia.png)
+![image](contenidos/licencia.png)
