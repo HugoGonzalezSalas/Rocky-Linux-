@@ -13,4 +13,4 @@ e)Instalar un paquete: yum install nombre_paquete
 
 f) Borrar un paquete. yum remove nombre_paquete
 
-- [Video]()
+- [Video](https://youtu.be/ryRBcsenvyc)
