@@ -1,4 +1,4 @@
-# 0.- Operaciones Básicas
+# 3.- Operaciones Básicas
 - Los comandos utilizados son: 
 
 a) Actualización de la lista de paquetes: yum list --available
